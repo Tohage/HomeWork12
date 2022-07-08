@@ -22,6 +22,5 @@ public class Main {
 
         manager.searchBy("50");
 
-
     }
 }
