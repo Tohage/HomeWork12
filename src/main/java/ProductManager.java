@@ -1,9 +1,4 @@
 public class ProductManager {
-
-    Book book = new Book();
-
-    Smartphone smartphone = new Smartphone();
-
     private ProductRepository repository = new ProductRepository();
 
     public void add(Product product) {
